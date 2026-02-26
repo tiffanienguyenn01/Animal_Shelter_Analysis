@@ -1,2 +1,4 @@
-# Animal_Shelter_Analysis
-Developed SQL pipelines and Tableau dashboards to analyze animal shelter operations, then applied Python logistic regression to predict adoption probability based on intake condition, animal type, and demographic features. Generated actionable insights to support data-driven shelter management.
+# Long Beach Animal Shelter Operations Analysis and Adoption Probability Prediction
+
+This project explores animal shelter operations using SQL, Python, and Tableau to assess adoption rates and uncover major factors of animal outcomes. The study demonstrates significant variation in adoption rates and length of stay among animal species and intake circumstances, suggesting operational bottlenecks and areas for improvement.
+A logistic regression model was created to predict adoption rates based on animal species, gender, and intake condition. The results demonstrate significant disparities: neutered or spayed dogs under age or weight had estimated adoption rates of over 99%, but cats with unknown sex, medical or behavioral difficulties have odds of less than 1%. This demonstrates that intake condition and animal type are the key factors influencing adoption results.
