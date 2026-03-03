@@ -22,3 +22,14 @@ Animal shelters face limited capacity and resource constraints, yet adoption lik
 - End-to-End Data Analytics: Used SQL to clean data, create features, develop KPIs, and summarize results; developed predictive logistic regression models in Python to quantify adoption likelihood factors.
 - Business Intelligence and Operational Strategy: Created interactive Tableau dashboards that turned statistical data into practical suggestions, increasing adoption efficiency and the utilization of resources.
 
+(Long Beach Animal Shelter Dashboard)![Animal_shelter_db.png]
+
+## Results
+- Adoption outcomes vary significantly across animal groups. Neutered or spayed dogs classified as under age or weight show predicted adoption probabilities near 99%, while cats with unknown sex or severe medical or behavioral conditions have probabilities below 1%, highlighting substantial disparities in adoption likelihood.
+- Length-of-stay analysis identified operational bottlenecks among lower-probability groups, indicating increased resource utilization and reduced shelter capacity efficiency.
+- The logistic regression model confirmed that animal type and intake condition are the strongest predictors of adoption outcomes, providing a quantitative framework for prioritizing medical treatment, behavioral intervention, and targeted marketing strategies.
+
+## Impact
+- Created a data-driven system to identify high-risk animal groups with low expected adoption rates, allowing for focused medical, behavioral, and marketing treatments to enhance adoption outcomes.
+- Improved operational visibility by assessing adoption inequalities and length-of-stay bottlenecks, allowing for more effective resource allocation and shelter capacity planning.
+- Delivered executive-level dashboards that convert predictive information into actionable KPIs, improving strategic decision-making and long-term adoption performance monitoring.
